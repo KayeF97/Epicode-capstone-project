@@ -1,0 +1,15 @@
+#chinspic{
+    object-fit: contain;
+}
+
+#deadspic{
+    object-fit: contain;
+}
+
+#curlspic{
+    object-fit: contain;
+}
+
+Carousel{
+    border-top: 10px;
+}
